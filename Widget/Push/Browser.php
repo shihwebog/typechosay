@@ -136,3 +136,4 @@ class Browser extends Push implements ActionInterface
       }
     }
 }
+
